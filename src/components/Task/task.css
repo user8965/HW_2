@@ -1,0 +1,30 @@
+.task-item {
+    width: 90%;
+    margin-bottom: 10px;
+    border-bottom: 2px groove black;
+    list-style: decimal;
+}
+
+.task-info {
+    max-width: 75%;
+    word-wrap: break-word;
+}
+
+.task-name {
+    color: darkred;
+}
+
+.task-desc {
+    margin-left: 10px;
+    color: magenta;
+}
+
+.task-status {
+    margin-right: 10px;
+    color: blue;
+}
+
+.task-state {
+    margin: 0;
+    float: right;
+}
